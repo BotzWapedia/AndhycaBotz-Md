@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/zeeone-ofc/Andhycabot-Md/image/lol_1.jpg" alt="ANDHYCA BOT" width="100"/>
 
 
 </p>
@@ -53,7 +53,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
+git clone https://github.com/zeeone-ofc/AndhycaBotz-Md.git
 cd Alphabot-Md
 bash install.sh
 ```
@@ -102,11 +102,11 @@ global.sessionName = 'session'
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 1](https://chat.whatsapp.com/DTtOcmrCAkKFrVZJD6jb6M)
+- [Group 2](https://chat.whatsapp.com/FlUqXS0bje12Fxdw8BVykk)
+- [Group 3](https://chat.whatsapp.com/HELzahc0jAvFZA6bJIbzFQ)
+- [Group 4](https://chat.whatsapp.com/FlUqXS0bje12Fxdw8BVykk)
+- [Group 5](https://chat.whatsapp.com/FlUqXS0bje12Fxdw8BVykk)
 
 # Thanks to
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
